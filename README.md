@@ -26,7 +26,7 @@ It process 2-bit inputs and generate a 4-bit address for the array.
 
 <img src="https://github.com/shrey3000/6t_SRAM-4x4_Array/assets/72602113/5d8c5fa5-7391-4210-abed-29952164a20c" alt="Image Description" width="500" height="500">
 
-For Depth Analysis go to: https://github.com/shrey3000/6t_SRAM-4x4_Array/tree/main/Decoder_2x4
+For Depth Analysis go to: https://github.com/shrey3000/6t_SRAM-4x4_Array/tree/main/2-to-4_Decoder
 
 ## Whole Circuit
 
